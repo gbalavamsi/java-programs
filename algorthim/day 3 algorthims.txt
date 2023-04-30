@@ -1,0 +1,188 @@
+how to write an algorithm for finding the average of three numbers?
+step1: start
+step2 : read the three numbers number1,number2,number3
+step3: declare a variable sum and avg
+step4: sum=number1+number2+number3
+step5: avg=sum/3
+step6: display sum and avg
+step 7: stop
+
+Area of rectangle
+step1: start
+step2:delare length,breadth,area
+step3:accept lenght
+step4:accept breadth
+step5:area=length*breadth
+step6:display area
+step7: stop
+
+
+write an algorithm for perimeter of the rectangle, area of the square, perimeter of the square
+step1: start
+step2: input side length and  breadth side b
+step3: area=l*b
+step4: perimetr=2*(l+b)
+step5: display area,perimeter
+step6: stop
+
+area of the square
+step1: start
+step2: read length(L)
+step3: area=L*L
+step4: print area
+step5: stop
+
+perimeter of the square
+step1: start
+step2: input side
+step3: perimeter=4A
+step4: print perimeter
+step5: stop
+
+write a algorthim for interest
+step1: start
+step2: read principal amount,rateand time
+step3: calculate interest 
+step4: (amount*rate*time)/100
+step5: print interest
+step6: stop
+
+
+
+algorithm for reading 5 subject marks for student and find the percentage of the marks
+
+ 
+step1:start
+
+step2:declare marks of sub1,sub2,sub3,sub4,sub5,percentage
+
+step3:read the values of the marks of sub1,sub2,sub3,sub4,sub5
+
+step4:calculate the percentage of the marks using the formula
+((sub1+sub2+sub3+sub4+sub5)/500)*100
+
+step5:store the result value into the percentage
+
+step6:print percentage
+
+step7:stop
+
+algorthim to swap two numbers 
+step1: start
+step2: declar num1,mun2,temp
+step3: input two numbers num1,num2 (num1=10,num2=20)
+step4: display before swap values num1,num2
+step5: temp=num1
+step6: num1=num2
+step7: num2=temp
+step8: display after swap values num1,num2
+step9: stop
+
+write a algorthim for if the number is even or not even
+step 1: start
+step2 : enter the n number 
+step 3: if the number is divisible by 2 and then remainder is 0 then print even
+step 4: if the remainder is not 0 when we dividedby 2then print odd
+step 5: stop
+
+write a algorthim for number is posive and negative
+step1: start
+step2: input a
+step3: if number is a>0=0("postive")
+step4: otherwise it is ("negatie")
+step4: stop
+
+Algorithm for greatest number between two numbers
+step1: start
+step2:read a,b
+step3: if a greater then b
+step4: display a is the largest number
+step5: otherwise display b is the largest number
+step6: stop
+
+largest number three numbers 
+step1 start 
+step2 select num1,num2,num2 
+step3 read values into num1 ,num2 (12,24,8)
+step4 if num1 greather than  num2 and num1 greater than num3
+step4 display num1 is greater 
+step5 elseif num2 greater than num1 and num2 greater than num3
+step6 display num2 is greater 
+step7 otherwise display num3 is greater 
+step8 stop
+
+[03:30 pm] Sowjanya Uppu
+
+
+
+
+Write an algorithm to input marks of five subjects Physics, Chemistry, Biology,     Mathematics and Computer. Calculate percentage and grade according to     following:
+
+    Percentage >= 90% : Grade A
+
+    Percentage >= 80% : Grade B
+
+    Percentage >= 70% : Grade C
+
+    Percentage >= 60% : Grade D
+
+    Percentage >= 40% : Grade E
+
+    Percentage < 40% : Grade F
+step1:start
+
+step2:declare marks of physics,chemistry,biology,mathematics,computer,percentage
+
+step3:read the values of the marks of physics,chemistry,biology,mathematics,computer
+
+step4:calculate the percentage of the marks using the formula
+((physics+chemistry+biology+mathmatics+computer)/500)*100
+
+step5:if 
+    Percentage >= 90% : Grade A
+else if
+    Percentage >= 80% : Grade B
+else if
+    Percentage >= 70% : Grade C
+else if
+    Percentage >= 60% : Grade D
+else if
+    Percentage >= 40% : Grade E
+else if
+    Percentage < 40% : Grade F
+
+step6:display the grade
+
+step7:stop
+
+step1: start
+step2: read a characters
+step3: check condition for vowel 
+if ch=='a',ch=='e',ch=='i',ch=='o',ch=='u'
+then it is a vowel
+step4: if the gien character is not vowel then it check the condition for consonant
+step5:if charactr is alphabet and it is not vowel then it is consonant
+step6: stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

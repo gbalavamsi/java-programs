@@ -1,0 +1,50 @@
+
+    
+algorithm for sum of 1 to 10 numbers
+step1:start
+step2:declare the variable i=1,sum,n
+step3:assign the value sum=0,n=10,i=1
+step4:calculate the variable sum=sum+i
+step5:and increment the value i=i+1
+step6:if(i<=10) then repeat the step4 and step5
+step7:dispaly the sum
+step8:stop
+
+
+
+algorithm for even numbers 1 to 100
+step1:start
+step2:declare the variables i to 1
+step3:check the value is less than or equal to 100(i<=100)
+step4:if the i divided by 2 and it is equal to 0(i%2=0)
+step5:print even number
+step6:increment the value by 1 repeat step4&step5
+step7:stop
+
+
+algorithm for odd numbers 1 to 100
+step1:start
+step2:declare the value i to 1
+step3:check the value is lessthan or equal to 100(i<=100)
+step4: if the i divided by 2 and it is not equal to 0(i%2!=0)
+step5:print odd number
+step6:increment the value by 1 repeat step4&step5
+step7:stop
+
+algorthim to print sum of even numbers
+step1: start
+step2:initialize th variable ito 1
+step3:while i<=100
+step4:if i%2==0
+step5:print the number
+step6:increment value of i
+step7:stop
+
+
+
+
+
+
+
+
+

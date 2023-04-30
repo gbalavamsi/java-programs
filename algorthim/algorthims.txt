@@ -1,0 +1,46 @@
+step 1: start
+step 2: insert atm card
+step 3: select language
+step 4: enter 4 digit am pin
+step 5: select the type of the transction
+step 6: selcet the of the account
+step 7: enter the withdraw amount
+step 8: collect the cash
+step 9: take the printed receipt
+step 10: stop
+
+
+how to bake a cake:
+step 1:start
+step 2: heat the oven
+step 3: gather the ingredients
+step 4: mix together the ingredients to make the batter
+step 5: grease the pan
+step 6: pour the batter into the pan
+step 7: put the pan in the oven
+step 8: set the timer
+step 9: when the timer goes off take the pan out of the oven
+step 10: stop
+
+
+
+
+how to make a bryinani:
+step1:start
+step2:pick out the ingredients we want to make a biryani
+step3:put the boiling water on the stove and add the rice which has been washed 
+step4:before the process of adding the rice on the stove prepare some mixture of chicken with some of the ingredients
+step5: then add the mixture on the rice and  again add the rice which has been washed earlier
+step6:then garnish the top of the rice with some fried onions and coriander leaves
+step7:let it be cooked for 10 minutes then the process is ready
+step8:stop
+
+
+
+
+
+
+
+
+
+

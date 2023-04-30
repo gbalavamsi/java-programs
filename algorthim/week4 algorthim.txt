@@ -1,0 +1,85 @@
+step1: start
+st2: seclare count
+sep3:assiging the value 1 to count variable(count=1)
+step4:print"bitlabs"
+step5:incerementing count value by 1 and sore the value into count then (count=count+1)
+step6:repeat step 4 and 5 until it reaches count value is greater than 5(count<10)
+Step7: stop
+
+
+    Algorithm to print 1 to 10  numbers
+step 1: start
+step 2: declare count
+step 3: assigning the value 1 to count (count =1)
+step 4: print count
+step 5:increment count value by 1
+step 6: store the value into count (count=count +1)
+step 7: repeat step 4 and step 5 until it reaches count value(count<=10)
+step 8 :stop
+
+Step1: Start
+Step2: Declare count
+Step3: assigning the values 10 to count variabe(count=10)
+Step4: print count
+Step5: decrementing count value by 10 into count(count=count-1)
+Step6: repeat step 4 and 5 until it reaches count value is lessthan or equals to 1
+Step7: Stop
+
+
+atm withdraw
+step 1: start
+step 2: insert atm card
+step 3: select language
+step 4: enter 4 digit am pin
+step 5: select the type of the transction
+step 6: selcet the of the account
+step 7: enter the withdraw amount
+step 8: collect the cash
+step 9: take the printed receipt
+step 10: stop
+
+Step1: Start
+Step2: Declare a variable ATM card
+Step3: Select language(Telugu, Hindi, english)
+Step4: Select options(curerent account, savings account, Generate PIN)
+Step5: Select option Generate PIN(Generate New PIN or Chnage PIN)
+Step6: After selecting Generate PIN you will receive a OTP to your mobile number
+Step7: Enter the OTP
+Step8: After entering the OTP you have to create a new PIN
+Step9: After entering the new PIN you need to re-enter the PIN for verification
+Step10: THe process of creating a PIN is completed
+Step11: You have to remove the  ATM card
+Step12: NOw enter the ATM card
+Step13: Now you have to select language(Telugu, Hindi, english)
+Step14: Select options(curerent account, savings account, Generate PIN)
+Step15: Select savings account
+Step16: Select Withdraw, Deposist, MINI statement
+Step17: Select Deposist
+Step18: What type of notes your are deposisting(100, 500, 2000)
+Step19: Choose amoung of them
+Step20: Now enter the amount for deposist
+Step21: After deposisting the amount you will receive a receipt
+Step22: Now take out the card
+Step23: Now insert the card again
+Step24: Select language(Telugu, Hindi, english)
+Step25: Select options(curerent account, savings account, Generate PIN)
+Step26  Select the type of the account
+Step27  Enter the withdraw the amount(500,1000,2000,)
+step28  Enter the PIN number
+step29  Collect the cash
+step30  TAke out the card
+Step31: Declare a variable ATM card
+Step32: Select language(Telugu, Hindi, english)
+Step33: Select options(curerent account, savings account, MINI statement    )
+step34: Select savings account
+step35:  Select MINI statement
+step36: It will display the statement(take receipt)
+step37: Take out the card
+step38: Stop
+ 
+step1:start
+step2:
+step3:
+step4:
+step5:
+

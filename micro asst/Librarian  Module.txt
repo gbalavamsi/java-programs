@@ -1,0 +1,39 @@
+Librarian  Module
+ Step 1: start
+step 2: manages the library
+step 3: take note about the required books
+step 4: assign the books in their shelf according to the subject
+step 5: they issues books to the borrowers
+step 6: they store information about the borrower and the books he/she borrowed
+step 7:if the returing of the book is late then the fine the borrower
+step 8 : and they conforms that the he/she borrowed book is returned or not
+step 9: they store every details of the borrowers and the details of the books in the system
+step 10: stop
+ 
+
+Librarian
+---------
+
+Step1: Start
+Step2: Declare librarian
+Step3: Librarian provides facility of students and staff registration and login.
+Step4: Librarian contains details of all books, borrower details and previous question papers
+Step5: Librarian will stick the barcodes on the book cover
+Step6: If the user wants any book for borrow the librarian will take all the details of user(name, phone number, barcode of the book, date of borrowing sign, etc) goto step7
+Step7: Librarian will provide the book for borrow
+Step8: Stop
+
+   2)student module
+
+ 
+
+step1:start
+step2:declare student and library 
+step3:read the student and library as variables
+step4:take the information of the book by the student
+step5:and then check if the book is available in the library or not
+step6:if the book is avavilable contact the librarian and take the book
+step7:otherwise book is not available
+step8:stop
+
+

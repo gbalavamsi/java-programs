@@ -1,0 +1,16 @@
+step1: start
+step2: declare num1,num2,multi result
+step3: read num1,num2
+step4: multiresult=num1*num2
+step5:multi result variable
+step6:stop
+
+step1: start
+step2:declare i,n,res
+step3:assign i=2,n=1
+step4:check n<=10 is true goto step5 oterwise goto step9
+step5:calaulate i*n=res
+step6:print res
+step7:incremnet n value by1 (n=n+1)
+step8:repeat the step4,5,6,,7 until it reaches n<=10
+step9:stop

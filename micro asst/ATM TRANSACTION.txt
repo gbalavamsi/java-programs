@@ -1,0 +1,72 @@
+ATM TRANSACTION
+
+step 1: start
+step 2: insert your card into atm it will shows wait do not remove your card it is under processing
+step 3: select language you select any language you want
+step 4: enter your pin
+step 5: in that we have many options then you select withdraw
+step 6: enter amount
+step 7: select the account type 
+step 8: collect the cash and remove the card
+step 9: stop
+
+
+mini statement
+step 1: start
+step 2: insert your card into atm machine 
+step 3: select language you select any language you want
+step 4: enter pin
+step 5: after it shows many options then you select mini statement
+step 6: collect the slip and remove the card
+step 7: stop
+
+
+balance enquiry
+step 1: start
+step 2: insert your card into atm machine 
+step 3: select language you select any language you want
+step 4: enter pin
+step 5: after it shows many options then you select balance enquiry
+step 6: it displays the balance in your account
+step 7: remove your card
+step 8: stop
+
+
+change password
+
+
+step 1: start
+step 2: insert your card into atm machine
+step 3: select language you select any language you want
+step 4: enter pin
+step 5: it displays many options then you select change password
+step 6: it asks our number enter mobile number
+step 7: then it sends a otp to your mobile number
+step 8: remove your card
+step 9: then insert your card again 
+step 10: select language you select any language you want
+step 11: enter the otp it send to your number
+step 12: now set the new pin and confirm the new pin
+step 13: new pin change successfully
+step 14: remove your card
+step 15: stop
+
+
+deposit
+step 1: start
+step 2: Insert your card into the machine
+Step 3: select the language
+step 4: enter pin
+step 5: it displays many options then you select deposit
+step 6: select a transaction type
+step 7: select  a account type<savings, current>
+step 8: Place the money in the cash deposit and click on 'Continue.'
+step 9: stop
+
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+step1: start
+step2:input a number
+step3:to assign i=1
+step4: to check i is less than equal input number or not if i is less than equal number then goto step number 5
+otherwise goto step8
+step5: to check input number is divisible by ior not
+step6:if the number is divisble by i then print the value of i as a factor otherwise go to step7
+step7:to increase the value of i by1
+step8: stop
+
+step1: start
+step2: declare n
+step3: intialize i=1,n=8
+step4: if n%i==0 if it is tru go to step5 if not go to step6
+step5: print i
+step6: i=i+1
+step7:repeat the step5 and step6 until i<=n otherwise go to step8
+step8: stop
+
+Algorithm to print the factorial of 15
+step 1: start
+step 2: declare a variable i, n
+step 3: assign the value i=1 ,n=15 
+step 4: check that the i value is less than or equal to n
+step 5: if the i value is less than and equal to n then go to step 6 or otherwise go to step10
+step 6: check i value is divisible by n or not 
+step 7:if the i is divisible by n 
+step 8: then print the value of i is a factor of n otherwise go to step 9
+step 9:to increase the value of i by 1 until it satisfies the condition (i<=n)
+step10 : stop
+
+perfect number:
+step1: start
+step2: read n
+step3: initialize s=0
+step4: for i=1 to n
+if (n%i)==0
+s=s+i
+i=i+1
+step5:if s==n
+then print given number s perfect number,goto step7
+step6:print given numb is not a perfect number
+step7:stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
